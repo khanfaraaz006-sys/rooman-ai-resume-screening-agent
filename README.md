@@ -79,13 +79,13 @@ Checks for overlap between education terms in the JD and resume.
 
 ### Requirements
 
-- Python 3.10+
+- Python 3.10–3.14
 - pip
 
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_PUBLIC_GITHUB_URL>
+git clone https://github.com/khanfaraaz006-sys/rooman-ai-resume-screening-agent.git
 cd rooman-resume-screening-agent
 ```
 

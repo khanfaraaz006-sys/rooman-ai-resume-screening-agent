@@ -1,0 +1,21 @@
+Junior AI Research Associate
+
+We are looking for an early-career AI Research Associate with a strong foundation in
+Computer Science, Artificial Intelligence, Machine Learning, NLP and data analysis.
+
+Responsibilities:
+- Build and evaluate practical AI/ML prototypes.
+- Work with Python, pandas, NumPy and scikit-learn.
+- Experiment with NLP, LLMs, prompt engineering and RAG workflows.
+- Analyze datasets and communicate findings clearly.
+- Use Git/GitHub for version control and collaborate on research prototypes.
+
+Preferred skills:
+Python, Machine Learning, Artificial Intelligence, NLP, pandas, NumPy, scikit-learn,
+LLM, RAG, prompt engineering, Git, SQL, data analysis.
+
+Education:
+Bachelor's degree / B.E. / B.Tech in Computer Science, IT, AI, Data Science, or related engineering field.
+
+Experience:
+Freshers and candidates with internships or up to 1 year of relevant experience are welcome.

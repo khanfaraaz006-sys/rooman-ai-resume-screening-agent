@@ -1,0 +1,5 @@
+Priya Patel
+B.Tech Computer Science
+1 year of experience in AI projects.
+Skills: Python, Artificial Intelligence, Machine Learning, NLP, LLM, RAG, prompt engineering, LangChain, transformers, Hugging Face, pandas, NumPy, scikit-learn, Git, SQL.
+Projects: Enterprise document RAG assistant and support ticket classifier.

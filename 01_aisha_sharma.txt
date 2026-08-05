@@ -1,0 +1,6 @@
+Aisha Sharma
+B.Tech Computer Science Engineering
+Fresher with AI/ML internship experience.
+Skills: Python, Machine Learning, Artificial Intelligence, NLP, pandas, NumPy, scikit-learn, SQL, Git, LLM, RAG, prompt engineering, data analysis.
+Projects: Built a RAG question-answering assistant using Python and an LLM. Trained classification models using scikit-learn and evaluated accuracy, precision, recall and F1.
+Internship: AI Intern — developed NLP prototypes and analyzed datasets.

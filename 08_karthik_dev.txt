@@ -1,0 +1,5 @@
+Karthik Dev
+B.E. Computer Science Engineering
+Fresher.
+Skills: C++, Java, Python, MySQL, Git.
+Projects: Smart parking application, IoT automation, and basic Python data analysis.

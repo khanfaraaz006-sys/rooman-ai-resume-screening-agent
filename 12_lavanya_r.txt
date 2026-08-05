@@ -1,0 +1,5 @@
+Lavanya R
+B.Tech Information Technology
+Fresher.
+Skills: JavaScript, React, Java, MySQL, Git, AWS.
+Projects: E-commerce website and cloud deployment.

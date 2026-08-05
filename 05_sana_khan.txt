@@ -1,0 +1,5 @@
+Sana Khan
+B.Sc Computer Science
+6 months internship experience.
+Skills: Python, Machine Learning, pandas, NumPy, scikit-learn, SQL, data analysis, Git.
+Internship: Data Science Intern working on preprocessing, classification and model evaluation.

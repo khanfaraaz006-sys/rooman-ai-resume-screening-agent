@@ -1,0 +1,5 @@
+Meera Nair
+M.Sc Data Science
+Fresher with research internship.
+Skills: Python, Machine Learning, NLP, pandas, NumPy, scikit-learn, data science, data analysis, SQL, Git.
+Research: Text classification and topic modelling for customer feedback.

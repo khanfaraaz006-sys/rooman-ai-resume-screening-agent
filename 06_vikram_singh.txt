@@ -1,0 +1,5 @@
+Vikram Singh
+B.Tech Computer Science
+2 years of experience in backend development.
+Skills: Python, Django, FastAPI, PostgreSQL, Docker, AWS, REST API, Git.
+Built scalable APIs and cloud services.

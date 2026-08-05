@@ -1,0 +1,5 @@
+Neha Iyer
+B.Tech Artificial Intelligence and Data Science
+Fresher.
+Skills: Python, Artificial Intelligence, Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch, pandas, NumPy, Git, LLM, prompt engineering.
+Projects: Sentiment analysis, image classifier, and LLM-based study assistant.

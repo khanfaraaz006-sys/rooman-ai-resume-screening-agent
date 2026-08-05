@@ -1,0 +1,5 @@
+Arjun Rao
+B.E. Information Technology
+Fresher.
+Skills: Java, JavaScript, MySQL, Git, REST API, Flask.
+Projects: Full stack inventory management system and REST APIs.

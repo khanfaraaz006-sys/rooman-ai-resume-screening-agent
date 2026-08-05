@@ -1,0 +1,6 @@
+Farhan Ali
+B.E. Computer Science
+Fresher with internship.
+Skills: Python, Artificial Intelligence, Machine Learning, pandas, NumPy, scikit-learn, SQL, Git, data analysis, NLP.
+Project: Healthcare recommendation prototype using machine learning.
+Internship: Worked on exploratory data analysis and model evaluation.

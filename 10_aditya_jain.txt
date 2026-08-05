@@ -1,0 +1,5 @@
+Aditya Jain
+B.Tech Electronics Engineering
+Fresher.
+Skills: Python, TensorFlow, computer vision, deep learning, NumPy, Git.
+Project: Defect detection using convolutional neural networks.

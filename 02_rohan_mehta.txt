@@ -1,0 +1,5 @@
+Rohan Mehta
+B.E. Computer Science
+1 year of experience in data analytics.
+Skills: Python, SQL, pandas, NumPy, data analysis, Power BI, Tableau, Git.
+Projects: Sales forecasting dashboard and customer churn analysis using Python.

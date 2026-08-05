@@ -127,7 +127,7 @@ outputs/ranked_candidates.json
 ## Run tests
 
 ```bash
-pytest -q
+python -m pytest -q
 ```
 
 ## Use your own data

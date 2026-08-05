@@ -1,0 +1,374 @@
+[
+  {
+    "candidate_name": "Aisha Sharma",
+    "file": "01_aisha_sharma.txt",
+    "final_score": 58.8,
+    "semantic_similarity": 26.9,
+    "skill_match": 86.7,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "artificial intelligence",
+      "data analysis",
+      "git",
+      "llm",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "prompt engineering",
+      "python",
+      "rag",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "data science",
+      "github"
+    ],
+    "experience_years_detected": 0.0,
+    "reasoning": "Strongest evidence: matched skills [artificial intelligence, data analysis, git, llm, machine learning, nlp]. Main gaps: data science, github. TF-IDF similarity=0.27, skill coverage=87%, experience match=100%, education match=100%.",
+    "rank": 1
+  },
+  {
+    "candidate_name": "Priya Patel",
+    "file": "09_priya_patell.txt",
+    "final_score": 55.0,
+    "semantic_similarity": 24.0,
+    "skill_match": 80.0,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "artificial intelligence",
+      "git",
+      "llm",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "prompt engineering",
+      "python",
+      "rag",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "data analysis",
+      "data science",
+      "github"
+    ],
+    "experience_years_detected": 1.0,
+    "reasoning": "Strongest evidence: matched skills [artificial intelligence, git, llm, machine learning, nlp, numpy]. Main gaps: data analysis, data science, github. TF-IDF similarity=0.24, skill coverage=80%, experience match=100%, education match=100%.",
+    "rank": 2
+  },
+  {
+    "candidate_name": "Neha Iyer",
+    "file": "03_neha_iyer.txt",
+    "final_score": 46.9,
+    "semantic_similarity": 17.2,
+    "skill_match": 66.7,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "artificial intelligence",
+      "data science",
+      "git",
+      "llm",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "prompt engineering",
+      "python"
+    ],
+    "missing_skills": [
+      "data analysis",
+      "github",
+      "rag",
+      "scikit-learn",
+      "sql"
+    ],
+    "experience_years_detected": 0.0,
+    "reasoning": "Strongest evidence: matched skills [artificial intelligence, data science, git, llm, machine learning, nlp]. Main gaps: data analysis, github, rag, scikit-learn. TF-IDF similarity=0.17, skill coverage=67%, experience match=100%, education match=100%.",
+    "rank": 3
+  },
+  {
+    "candidate_name": "Farhan Ali",
+    "file": "11_farhan_ali.txt",
+    "final_score": 46.9,
+    "semantic_similarity": 17.1,
+    "skill_match": 66.7,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "artificial intelligence",
+      "data analysis",
+      "git",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "data science",
+      "github",
+      "llm",
+      "prompt engineering",
+      "rag"
+    ],
+    "experience_years_detected": 0.0,
+    "reasoning": "Strongest evidence: matched skills [artificial intelligence, data analysis, git, machine learning, nlp, numpy]. Main gaps: data science, github, llm, prompt engineering. TF-IDF similarity=0.17, skill coverage=67%, experience match=100%, education match=100%.",
+    "rank": 4
+  },
+  {
+    "candidate_name": "Sana Khan",
+    "file": "05_sana_khan.txt",
+    "final_score": 43.9,
+    "semantic_similarity": 15.7,
+    "skill_match": 60.0,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "data analysis",
+      "data science",
+      "git",
+      "machine learning",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "github",
+      "llm",
+      "nlp",
+      "prompt engineering",
+      "rag"
+    ],
+    "experience_years_detected": 0.75,
+    "reasoning": "Strongest evidence: matched skills [data analysis, data science, git, machine learning, numpy, pandas]. Main gaps: artificial intelligence, github, llm, nlp. TF-IDF similarity=0.16, skill coverage=60%, experience match=100%, education match=100%.",
+    "rank": 5
+  },
+  {
+    "candidate_name": "Meera Nair",
+    "file": "07_meera_nair.txt",
+    "final_score": 42.9,
+    "semantic_similarity": 19.1,
+    "skill_match": 66.7,
+    "experience_match": 100.0,
+    "education_match": 0.0,
+    "matched_skills": [
+      "data analysis",
+      "data science",
+      "git",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "python",
+      "scikit-learn",
+      "sql"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "github",
+      "llm",
+      "prompt engineering",
+      "rag"
+    ],
+    "experience_years_detected": 0.0,
+    "reasoning": "Strongest evidence: matched skills [data analysis, data science, git, machine learning, nlp, numpy]. Main gaps: artificial intelligence, github, llm, prompt engineering. TF-IDF similarity=0.19, skill coverage=67%, experience match=100%, education match=0%.",
+    "rank": 6
+  },
+  {
+    "candidate_name": "Rohan Mehta",
+    "file": "02_rohan_mehta.txt",
+    "final_score": 33.4,
+    "semantic_similarity": 8.9,
+    "skill_match": 40.0,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "data analysis",
+      "git",
+      "numpy",
+      "pandas",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data science",
+      "github",
+      "llm",
+      "machine learning",
+      "nlp",
+      "prompt engineering",
+      "rag",
+      "scikit-learn"
+    ],
+    "experience_years_detected": 1.0,
+    "reasoning": "Strongest evidence: matched skills [data analysis, git, numpy, pandas, python, sql]. Main gaps: artificial intelligence, data science, github, llm. TF-IDF similarity=0.09, skill coverage=40%, experience match=100%, education match=100%.",
+    "rank": 7
+  },
+  {
+    "candidate_name": "Karthik Dev",
+    "file": "08_karthik_dev.txt",
+    "final_score": 25.1,
+    "semantic_similarity": 6.2,
+    "skill_match": 20.0,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "data analysis",
+      "git",
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data science",
+      "github",
+      "llm",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "prompt engineering",
+      "rag",
+      "scikit-learn",
+      "sql"
+    ],
+    "experience_years_detected": 0.0,
+    "reasoning": "Strongest evidence: matched skills [data analysis, git, python]. Main gaps: artificial intelligence, data science, github, llm. TF-IDF similarity=0.06, skill coverage=20%, experience match=100%, education match=100%.",
+    "rank": 8
+  },
+  {
+    "candidate_name": "Aditya Jain",
+    "file": "10_aditya_jain.txt",
+    "final_score": 24.1,
+    "semantic_similarity": 4.1,
+    "skill_match": 20.0,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "git",
+      "numpy",
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analysis",
+      "data science",
+      "github",
+      "llm",
+      "machine learning",
+      "nlp",
+      "pandas",
+      "prompt engineering",
+      "rag",
+      "scikit-learn",
+      "sql"
+    ],
+    "experience_years_detected": 0.0,
+    "reasoning": "Strongest evidence: matched skills [git, numpy, python]. Main gaps: artificial intelligence, data analysis, data science, github. TF-IDF similarity=0.04, skill coverage=20%, experience match=100%, education match=100%.",
+    "rank": 9
+  },
+  {
+    "candidate_name": "Vikram Singh",
+    "file": "06_vikram_singh.txt",
+    "final_score": 21.8,
+    "semantic_similarity": 4.3,
+    "skill_match": 13.3,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "git",
+      "python"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analysis",
+      "data science",
+      "github",
+      "llm",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "prompt engineering",
+      "rag",
+      "scikit-learn",
+      "sql"
+    ],
+    "experience_years_detected": 2.0,
+    "reasoning": "Strongest evidence: matched skills [git, python]. Main gaps: artificial intelligence, data analysis, data science, github. TF-IDF similarity=0.04, skill coverage=13%, experience match=100%, education match=100%.",
+    "rank": 10
+  },
+  {
+    "candidate_name": "Lavanya R",
+    "file": "12_lavanya_r.txt",
+    "final_score": 17.8,
+    "semantic_similarity": 1.0,
+    "skill_match": 6.7,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "git"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analysis",
+      "data science",
+      "github",
+      "llm",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "prompt engineering",
+      "python",
+      "rag",
+      "scikit-learn",
+      "sql"
+    ],
+    "experience_years_detected": 0.0,
+    "reasoning": "Strongest evidence: matched skills [git]. Main gaps: artificial intelligence, data analysis, data science, github. TF-IDF similarity=0.01, skill coverage=7%, experience match=100%, education match=100%.",
+    "rank": 11
+  },
+  {
+    "candidate_name": "Arjun Rao",
+    "file": "04_arjun_rao.txt",
+    "final_score": 17.6,
+    "semantic_similarity": 0.5,
+    "skill_match": 6.7,
+    "experience_match": 100.0,
+    "education_match": 100.0,
+    "matched_skills": [
+      "git"
+    ],
+    "missing_skills": [
+      "artificial intelligence",
+      "data analysis",
+      "data science",
+      "github",
+      "llm",
+      "machine learning",
+      "nlp",
+      "numpy",
+      "pandas",
+      "prompt engineering",
+      "python",
+      "rag",
+      "scikit-learn",
+      "sql"
+    ],
+    "experience_years_detected": 0.0,
+    "reasoning": "Strongest evidence: matched skills [git]. Main gaps: artificial intelligence, data analysis, data science, github. TF-IDF similarity=0.00, skill coverage=7%, experience match=100%, education match=100%.",
+    "rank": 12
+  }
+]
